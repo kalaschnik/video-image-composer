@@ -1,2 +1,2 @@
-# video-image-composer
-Use Python (and MoviePy) to compose video files with image files
+# Video Image Composer
+Use Python (and MoviePy) to compose video files with image files. See the Jupyter Notebooks for documentation.
